@@ -1,0 +1,8 @@
+0 Jinnah International,Karachi,Pakistan,1
+1 Allama Iqbal International,Lahore,Pakistan,1
+2 Islamabad International,Islamabad,Pakistan,1
+3 Bacha Khan International,Peshawar,Pakistan,1
+4 Quetta International,Quetta,Pakistan,0
+5 Multan International,Multan,Pakistan,1
+6 Faisalabad International,Faisalabad,Pakistan,0
+7 Skardu Airport,Skardu,Pakistan,1
